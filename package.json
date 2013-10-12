@@ -1,0 +1,22 @@
+{
+  "name": "johnny",
+  "version": "0.0.1",
+  "description": "Monitoring redis subscription for social events to be manifested in hardware",
+  "main": "app.js",
+  "dependencies": {
+    "johnny-five": "~0.7.3",
+    "redis": "~0.8.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:errkk/curious-johnny.git"
+  },
+  "author": "Eric",
+  "bugs": {
+    "url": "https://github.com/errkk/curious-johnny/issues"
+  }
+}
